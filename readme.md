@@ -45,10 +45,10 @@ After every game, the player can see a detailed analysis of the game by clicking
 7. <code>subprocess</code><br>
 
 <h4>EXTERNAL / Need to be installed</h4>
-1. PyGame
-2. FPDF
-3. Numpy
-4. PyLab
+1. PyGame <br>
+2. FPDF <br>
+3. Numpy <br>
+4. PyLab <br>
 
 <h2>Installation and Running the Game</h2>
 1. Install the above mentioned dependencies <br>
