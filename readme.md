@@ -36,13 +36,13 @@ After every game, the player can see a detailed analysis of the game by clicking
 <h2>Dependancies</h2>
 
 <h4>PRE-INSTALLED / Python Standard Library</h4>
-1. os <br>
-2. time<br>
-3. random<br>
-4. platform<br>
-5. pickle<br>
-6. copy<br>
-7. subprocess<br>
+1. <code>os</code><br>
+2. <code>time</code><br>
+3. <code>random</code><br>
+4. <code>platform</code><br>
+5. <code>pickle</code><br>
+6. <code>copy</code><br>
+7. <code>subprocess</code><br>
 
 <h4>EXTERNAL / Need to be installed</h4>
 1. PyGame
@@ -52,5 +52,5 @@ After every game, the player can see a detailed analysis of the game by clicking
 
 <h2>Installation and Running the Game</h2>
 1. Install the above mentioned dependencies <br>
-2. Extract the .zip file for the game at a location to which you have Read and Write permissions for <br>
-3. Run the game with python3 by running the A5.py file (python3 A5.py)<br>
+2. Clone the Github repo or download the repo as .ZIP and extract it at a location for which you have Read and Write permissions<br>
+3. Run the game with python3 by running the game.py file (<code>python3 game.py</code>)<br>
